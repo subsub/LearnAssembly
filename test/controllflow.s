@@ -1,6 +1,6 @@
 section .data
     msgSuccess db "Success!", 0ah
-    lenSuccess equ $ - msgSuccess
+    lenSuccess equ $ - msgSuccess           ; equ is used to define constant
     msgError db "Error!", 0ah
     lenError equ $ - msgError
 section .text
