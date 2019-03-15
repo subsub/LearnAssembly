@@ -1,5 +1,5 @@
 # LearnAssembly
-This is my personal exercise to learn assembly language. (I'm a total beginner in assembly)
+This is my personal exercise in learning assembly language. (I'm a total beginner in assembly)
 
 
 ## Usefull commands
