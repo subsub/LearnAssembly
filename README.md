@@ -9,3 +9,8 @@ This is my personal exercise to learn assembly language. (I'm a total beginner i
 `make build-test` : Build test
 
 `make test` : Build and run test
+
+
+## Env
+
+This code is written in macOS v10.14.3
