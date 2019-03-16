@@ -20,8 +20,8 @@ func_three:
     ; prolog
     push rbp
     mov rbp, rsp            ; save top of the stack (rsp) to rbp
-    sub rsp, 3
     ; end prolog
+    sub rsp, 3
     mov [rsp], byte 'H'
     mov [rsp+1], byte 'i'
     mov [rsp+2], byte 0ah
